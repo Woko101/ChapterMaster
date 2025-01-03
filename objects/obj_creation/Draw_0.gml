@@ -206,7 +206,7 @@ if (slate4>0){
         draw_set_alpha(slate4/30);
         
         
-        
+        //Ploobus
         
         if (instance_exists(obj_cursor)){obj_cursor.image_index=0;}
         if (tool=1) and (change_slide<=0){
